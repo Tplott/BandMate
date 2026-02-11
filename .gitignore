@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment variables (passwords, secrets - NEVER push these)
+.env
+
+# Next.js build output
+.next/
+
+# OS files
+.DS_Store
+
+# Debug logs
+npm-debug.log*

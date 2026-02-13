@@ -12,3 +12,6 @@ node_modules/
 
 # Debug logs
 npm-debug.log*
+
+# Personal guide
+BandMate_Development_Guide.md
